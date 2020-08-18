@@ -1,6 +1,7 @@
 #!/bin/bash
+mkdir Output
 pythonfile=$1
-Speicherort="/home/jovyan/pytm/Output/"
+Speicherort="/home/jovyan/pytmextensions/Output/"
 seqdianame=$2
 reportname=$3
 dotdiagramname=$4
